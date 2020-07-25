@@ -1,0 +1,9 @@
+https://www.itsolutionstuff.com/post/laravel-compress-image-before-upload-exampleexample.html
+
+
+ composer create-project --prefer-dist laravel/laravel blog
+
+ composer require intervention/image
+
+ composer require illuminate/html
+
